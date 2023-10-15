@@ -1,4 +1,4 @@
-
+# Programa em delphy para Traduzir Cores de Resistores
 
 
 1% Marrom
