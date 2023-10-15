@@ -1,0 +1,8 @@
+Cria o caminho de onde a tabela (informações) serão salvas
+BdeAdministrator cria a tabela com o caminho salva e fecha ela irá aparecer no icone da tabela 
+que pode ser encontrada na aba BDE do deplphy 7
+no object inspector edite o table name para o nome da tabela que você criou no outro aplicativo
+edite também o database name com o nome do arquivo criado
+
+para comunicar use o data source dentro da aba data access
+
